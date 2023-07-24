@@ -1,0 +1,115 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    color: white;
+  background-color: black;
+}
+
+.container {
+    max-width: 50rem;
+    margin: 2rem auto;
+    padding: 0px 2rem;
+    border: 1px solid;
+}
+
+p {
+    font-size: 4rem;
+    margin: 2rem 0rem 1rem;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-size: 2rem;
+    margin: 2rem 0rem 1rem;
+    color: white;
+}
+
+.inputAlignLeft{
+    border: 1px solid;
+    height: 2.3rem;
+    width: 15rem;
+    border-radius: .5rem;
+}
+
+.inputAlignRight{
+    margin-left: 40px;
+    border: 1px solid;
+    height: 2.3rem;
+    width: 15rem;
+    border-radius: .5rem;
+}
+
+.textAlign{
+    margin-right: 60px;
+    font-size: .8rem;
+    margin-left: 3px;
+}
+
+.textAlignRight{
+    margin-left: 105px;
+    font-size: .8rem;
+}
+
+#diff1{
+    margin-left: 200px;
+    font-size: .8rem;
+}
+
+#diff2{
+    margin-left: 190px;
+    font-size: .8rem;
+}
+
+#streetaddress{
+    
+    border: 1px solid;
+    height: 2.3rem;
+    width: 15rem;
+    border-radius: .5rem;
+    width: 100%
+}
+
+#streetaddress2{
+    margin-top: 15px;
+    border: 1px solid;
+    height: 2.3rem;
+    width: 15rem;
+    border-radius: .5rem;
+    width: 100%
+}
+
+.drop {
+    border: 1px solid;
+    height: 2.3rem;
+    width: 15rem;
+    border-radius: .5rem;
+}
+
+#rat{
+    padding-right: 20px;
+}
+
+.ratRadio{
+    margin: 15px;
+}
+
+button {
+    font-size: 2rem;
+    margin: 0px auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    display: block;
+    color: wite;
+    padding: 0.5rem 0.8rem;
+    border: 1px solid white;
+    background-color: #023de3;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 1px #0000;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+  }
